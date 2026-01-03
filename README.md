@@ -28,6 +28,16 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical"/>
+</p>
 
 ---
 
@@ -35,6 +45,3 @@
 
 > I love turning **simple ideas into impactful tech solutions** 🚀  
 
----
-
-⭐ **If you like my work, feel free to star my repositories!**
