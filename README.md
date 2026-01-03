@@ -1,4 +1,40 @@
-## 💫About Me ...
+# 👋 Hi, I'm Riddhima Gupta  
+
+🎓 **B.Tech Student | Flutter Developer**  
+💡 Passionate about building **meaningful, user-centric applications** that solve real-world problems.
+
+---
+
+## 🚀 About Me
+
+- 🎓 2nd Year **B.Tech Student**
+- 📱 **Flutter Developer** (GetX, Firebase)
+- 🤖 Exploring **AI-powered applications** 
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Dart
+- Python
+- C (Basics)
+- C++
+
+### 📱 Mobile Development
+- Flutter
+- GetX (State Management)
+- Firebase (Auth, Firestore)
+
+---
 
 
-Hii..I am Riddhima a first year undergraduate stundent at Maharishi Markandeshwar(Deemed To Be University) Mullana-Ambala. I'm currently exploring C programming.
+---
+
+## ✨ Fun Fact
+
+> I love turning **simple ideas into impactful tech solutions** 🚀  
+
+---
+
+⭐ **If you like my work, feel free to star my repositories!**
